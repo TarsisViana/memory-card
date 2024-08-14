@@ -1,0 +1,12 @@
+.cardGrid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+}
